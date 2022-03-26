@@ -1,2 +1,5 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarters data to uncover trends
+# Analysis of Kickstarter Campaigns
+##Purpose
+###Performing analysis on Kickstarters data to uncover trends and visualize campaing outcomes based on their launch dates and their fundings goals.
+
+
