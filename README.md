@@ -12,7 +12,7 @@
 ###### Results: answer the following quuestion in complete and coherent sentences.
 ###### What are two conclusions you can draw about the Theater Outcomes by Launch date?, What can you conclude about the outcomes based on goals?
 
-![This is an image] (Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch] (Theater_Outcomes_vs_Launch.png)
 
 ###### What are some limitations of this dataset?, What are some other possible tables and/or graphs tha we could create?
 
