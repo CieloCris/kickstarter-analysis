@@ -2,7 +2,7 @@
 
 ## Overview
 
-#### Louise, our client, provided us with a dataset about Kickstarters projects between 2009 to 2017. She wants to launch a successful theater play and needs to know when is the best month to be the launch date of her project. Also, Louise mentioned to us that she has a fundraising goal of around 12,000 USD dollars for her play "Fever".
+#### Louise, our client, provided us with a dataset about Kickstarters projects between 2009 to 2017. She wants to launch a successful theater play and needs to know when is the best month to be the launch date of her project. Also, Louise mentioned to us that she has a fundraising goal of around $12,000 for her play "Fever".
 #### Louise wants to know how campaigns perform concerning their funding goals and the launch date.
 
 #### We examined a dataset about Kickstarters Projects. Initially, our dataset had a size of 4115 rows and 14 columns. The columns of the dataset were: _ID, Name, Blurb, Goal, Pledged, Outcomes, Country, Currency, Deadline, Launched_at, Staff_pick, Backers_count, Spotlight, Category and Subcategory._
