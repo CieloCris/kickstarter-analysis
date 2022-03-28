@@ -22,7 +22,7 @@
 ##### 4) To work with the plays' launch date, we convert the dates that were in Unix TimeStamp format to a more understandable form. After that, the Years column was created.
 ##### 5) In the fifth step, we calculate some descriptive statistics, such as the mean and the standard deviation of the "Goal" and the "Pledged" columns, to discover trends of our data.
 ##### 6) The next step was to create a pivot table and a chart where the successful, failed and canceled works were identified according to the premiere month.
-###### 7) Finally, a new table was made to classify the fund goals in monetary ranges to facilitate the findings.
+##### 7) Finally, a new table was made to classify the fund goals in monetary ranges to facilitate the findings.
 
 ##### Throughout all the analysis, filters, pivot tables, charts, and functions were used to find the information that would allow Louise to have better information for decision making.
 
@@ -35,8 +35,7 @@
 
 ## Results
 
-##### In total, 4,113 Kickstarters projects were studied and, of these, 1,066 theater plays were identified through the Category and Subcategory columns.
-##### According to their outcome, 65% of the plays were Successful, while 33% Failed and 2% were in Live status.
+##### In total, 4,113 Kickstarters projects were studied and, of these, 1,066 theater plays were identified through the Category and Subcategory columns. According to their outcome, 65% of the plays were Successful, while 33% Failed and 2% were in Live status.
 ##### The following chart presents the category of Kickstarters projects and their outcome.
 
 ![Alt text](/CategoryOutcomes.png "imagen0")
@@ -45,7 +44,7 @@
 
 ##### Finally, to better describe the results, we sought to answer the following questions:
 
-#### **What are two conclusions you can draw about the Outcomes-based on Launch Date?**
+### **What are two conclusions you can draw about the Outcomes-based on Launch Date?**
 
 ##### First, we present a chart that shows the outcomes of the theater plays based on launch date:
 
@@ -61,7 +60,7 @@
 ##### 1) May and June are the best months to premiere a play because those months have the highest possibility of success. The worst months to premiere a work are from November to January, in the winter season.
 ##### 2) Even though May, June, and July had many failed theater plays, these were the months with the highest number of projects released, so it is still convenient to launch the play in those months. To be sure about this suggestion, we need to analyze fundraising goals and other variables.
 
-#### **What can you conclude about the Outcomes-based on Goals?**
+### **What can you conclude about the Outcomes-based on Goals?**
 
 ##### The next chart presents the fundings goals of the plays by monetary ranges and their outcomes:
 
@@ -80,7 +79,7 @@
 
 ##### The plays with lower fundraising goals are more and have more chances of being successful. Therefore, it can be concluded that works with goals of less than $15,000 have more than a 50 percent chance of being successful.
 
-#### **What are some other possible tables and/or graphs that we could create?**
+### **What are some other possible tables and/or graphs that we could create?**
 
 ##### To improve the performance of the analysis we used filters and pivot tables in the dataset to look for successful and failed plays with the funding that Louise have to launch her play "Fever" ($12,000).
 
@@ -95,7 +94,7 @@
 #### **Our results support the conclusion that:**
 ##### June is the best month to launch a play with a fundraising goal between $10,000 to $14,999 because that month has fewer failed projects and more successful plays.
 
-#### **What are some limitations of this dataset?**
+### **What are some limitations of this dataset?**
 
 ##### -The dataset can improve by adding some columns, such as the genre of the play and the mass media used to promote the campaigns.
 ##### -The dataset in which we were working needs more information about specifics metrics that are needed to analyze Kickstarters campaigns.
